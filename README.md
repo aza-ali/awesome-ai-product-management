@@ -21,22 +21,27 @@ The job of "PM" is being rewritten in real time. This list is for PMs who want t
 AI-native or AI-augmented tools PMs actually use day to day.
 
 - [Claude](https://claude.ai) - Long-context model for spec writing, research synthesis, doc analysis, and quick prototyping. The PM workhorse.
-- [Claude Code](https://docs.claude.com/en/docs/claude-code) - Terminal-based agent for PMs who want to ship code-level artifacts (prototypes, scripts, MCPs) alongside specs.
+- [Claude Code](https://code.claude.com/docs/en/overview) - Terminal-based agent for PMs who want to ship code-level artifacts (prototypes, scripts, MCPs) alongside specs.
 - [Cursor](https://cursor.com) - AI-first IDE. PMs use it to prototype features, mock APIs, and read codebases.
 - [Linear](https://linear.app) - Project tracker with first-class AI integrations and agent triage.
 - [Notion AI](https://www.notion.com/product/ai) - AI-augmented docs and databases. Common home for PRDs, research notes, and decision logs.
 - [Coda](https://coda.io) - AI-native doc platform with formula-driven workflows. Strong for building living strategy docs.
 - [Productboard](https://www.productboard.com) - Product management platform with AI features for feedback synthesis and prioritization.
 - [Dovetail](https://dovetail.com) - User research repository with AI for tagging, summarization, and theme extraction across interviews.
+- [Granola](https://granola.so) - AI meeting intelligence. Captures and summarizes meetings so PMs can stay present and get structured notes automatically.
+- [Kraftful](https://kraftful.com) - AI for product feedback analysis. Synthesizes app reviews, support tickets, and surveys into themes and signals.
+- [NotebookLM](https://notebooklm.google) - Google's AI document synthesis tool. Upload research, reports, or transcripts and query across all of them.
+- [Perplexity](https://perplexity.ai) - AI-powered research with cited sources. Useful for quick market research and competitive landscaping.
+- [v0](https://v0.dev) - Vercel's AI UI prototyping tool. Generate functional UI from a text prompt — useful for PMs who want to sketch interfaces without a designer.
 
 ## Frameworks & Mental Models
 
 Conceptual frameworks specifically for AI product strategy.
 
-- [How To Build an AI Product That People Will Actually Use - Marty Cagan](https://www.svpg.com/ai-product-management/) - SVPG essay on AI PM fundamentals.
+- [AI Product Management 2 Years In - Marty Cagan](https://www.svpg.com/ai-product-management-2-years-in/) - Cagan's 2025 retrospective on what's actually changed in AI PM, and where it's heading.
 - [Lenny's Newsletter on AI Products](https://www.lennysnewsletter.com/t/ai) - Tagged archive of Lenny's AI-specific essays and interviews.
 - [The Rise of the AI Engineer - Latent Space](https://www.latent.space/p/ai-engineer) - Background reading on the AI engineer role PMs increasingly partner with.
-- [Anthropic's "Building with Claude" guides](https://docs.claude.com/en/docs/build-with-claude/overview) - First-principles thinking on how to design products around LLMs.
+- [Anthropic's "Building with Claude" guides](https://platform.claude.com/docs/en/home) - First-principles thinking on how to design products around LLMs.
 
 ## Writing & Newsletters
 
@@ -53,8 +58,9 @@ Newsletters and blogs that consistently move the needle on AI product thinking.
 
 - [Inspired by Marty Cagan](https://www.svpg.com/books/) - The canonical PM book. Read this before any AI-specific material.
 - [Empowered by Marty Cagan & Chris Jones](https://www.svpg.com/books/) - The follow-up on PM teams and leadership.
-- [The Coming Wave by Mustafa Suleyman](https://www.the-coming-wave.com/) - AI's macro implications, from a founder of DeepMind and Inflection.
-- [AI Superpowers by Kai-Fu Lee](https://aisuperpowers.com/) - Background on the US/China AI landscape.
+- [The Coming Wave by Mustafa Suleyman](https://www.the-coming-wave.com/) - AI's macro implications, from the CEO of Microsoft AI and co-founder of DeepMind.
+- [AI Product Playbook by Marily Nika & Diego Granados](https://www.aiproduct.com/ai-product-playbook) - Practical frameworks for AI-driven PM, written by Google AI Product Leads. Covers strategy, ethics, and building with LLMs.
+- [The Art of AI Product Development by Janna Lipenkova](https://www.manning.com/books/the-art-of-ai-product-development) - Covers identifying market opportunities for AI, understanding LLMs and agent systems, and designing user-friendly AI interfaces.
 
 ## Podcasts
 
@@ -65,15 +71,16 @@ Newsletters and blogs that consistently move the needle on AI product thinking.
 
 ## Research & Reports
 
-- [a16z AI Top 100 / 50](https://a16z.com/100-gen-ai-apps/) - Andreessen Horowitz's recurring report on which AI apps people actually use.
-- [Sequoia AI essays](https://www.sequoiacap.com/article-category/perspective/) - Sequoia's AI strategy pieces ("Generative AI's Act Two," etc.).
-- [The State of AI Report (Air Street Capital)](https://www.stateof.ai/) - Comprehensive annual AI landscape report.
-- [Stanford AI Index](https://aiindex.stanford.edu/) - Annual data-rich AI progress report.
+- [a16z Top 100 Gen AI Consumer Apps — 6th Edition](https://a16z.com/100-gen-ai-apps-6/) - Andreessen Horowitz's recurring report on which AI apps people actually use. Updated March 2026.
+- [Sequoia: 2026 — This Is AGI](https://sequoiacap.com/article/2026-this-is-agi/) - Sequoia's thesis on long-horizon agents as the inflection point for AGI.
+- [Sequoia: Services: The New Software](https://sequoiacap.com/article/services-the-new-software/) - March 2026 essay on AI companies moving from copilots to autopilots.
+- [The State of AI Report 2025 (Air Street Capital)](https://www.stateof.ai/) - Comprehensive annual AI landscape report covering research, industry, geopolitics, and safety.
+- [Stanford AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report) - Annual data-rich AI progress report. 2026 edition released April 2026.
 
 ## Communities
 
 - [Mind the Product](https://www.mindtheproduct.com/) - One of the largest PM communities, with growing AI content.
-- [Reforge](https://www.reforge.com/) - Paid programs in product strategy, retention, and (newer) AI for PMs.
+- [Reforge](https://www.reforge.com/) - Paid programs in product strategy and AI. Dedicated AI tracks include AI Foundations, AI Product Leadership, AI Growth, and AI Strategy.
 - [Product School](https://productschool.com/) - Free events and paid courses, AI-augmented PM tracks.
 
 ## People to Follow
@@ -84,9 +91,9 @@ A starting set — accounts that consistently post substantive PM/AI content. Op
 - [Shreyas Doshi](https://twitter.com/shreyas) - Product craft and decision-making.
 - [Marty Cagan](https://twitter.com/cagan) - SVPG. The canonical PM voice.
 - [Pete Skomoroch](https://twitter.com/peteskomoroch) - AI product management. Was data products at LinkedIn, then DataGrail.
-- [Andrej Karpathy](https://twitter.com/karpathy) - Former Tesla AI / OpenAI; teaches the AI fundamentals every PM should know.
+- [Andrej Karpathy](https://twitter.com/karpathy) - Founder of Eureka Labs. Teaches AI fundamentals every PM should know; coined "vibe coding" and posts the best accessible AI explainers.
 - [swyx](https://twitter.com/swyx) - Latent Space. Bridges AI engineering and product.
-- [Peter Steinberger](https://twitter.com/steipete) - Former PSPDFKit founder, now at OpenAI. Vibe-coding and shipping fast.
+- [Peter Steinberger](https://twitter.com/steipete) - Creator of OpenClaw; joined OpenAI in 2026 to lead personal AI agents. Posts on agentic UX and shipping fast.
 
 ## Contributing
 
