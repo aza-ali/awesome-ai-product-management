@@ -28,7 +28,7 @@ AI-native or AI-augmented tools PMs actually use day to day.
 - [Coda](https://coda.io) - AI-native doc platform with formula-driven workflows. Strong for building living strategy docs.
 - [Productboard](https://www.productboard.com) - Product management platform with AI features for feedback synthesis and prioritization.
 - [Dovetail](https://dovetail.com) - User research repository with AI for tagging, summarization, and theme extraction across interviews.
-- [Granola](https://granola.so) - AI meeting intelligence. Captures and summarizes meetings so PMs can stay present and get structured notes automatically.
+- [Granola](https://www.granola.ai) - AI meeting intelligence. Captures and summarizes meetings so PMs can stay present and get structured notes automatically.
 - [Kraftful](https://kraftful.com) - AI for product feedback analysis. Synthesizes app reviews, support tickets, and surveys into themes and signals.
 - [NotebookLM](https://notebooklm.google) - Google's AI document synthesis tool. Upload research, reports, or transcripts and query across all of them.
 - [Perplexity](https://perplexity.ai) - AI-powered research with cited sources. Useful for quick market research and competitive landscaping.
@@ -66,8 +66,8 @@ Newsletters and blogs that consistently move the needle on AI product thinking.
 
 - [Lenny's Podcast](https://www.lennysnewsletter.com/podcast) - Long-form PM interviews, frequent AI guests.
 - [Latent Space](https://www.latent.space/) - AI engineering and product, every week.
-- [Practical AI](https://changelog.com/practicalai) - AI applied to real product problems.
-- [Product Thinking with Melissa Perri](https://melissaperri.com/podcast) - PM craft, increasingly AI-aware.
+- [Practical AI](https://practicalai.fm) - AI applied to real product problems.
+- [Product Thinking with Melissa Perri](https://www.produxlabs.com/product-thinking) - PM craft, increasingly AI-aware.
 
 ## Research & Reports
 
