@@ -6,15 +6,15 @@ The job of "PM" is being rewritten in real time. This list is for PMs who want t
 
 ## Contents
 
-- [Tools for PMs](#tools-for-pms)
-- [Frameworks & Mental Models](#frameworks--mental-models)
-- [Writing & Newsletters](#writing--newsletters)
-- [Books](#books)
-- [Podcasts](#podcasts)
-- [Research & Reports](#research--reports)
-- [Communities](#communities)
-- [People to Follow](#people-to-follow)
-- [Contributing](#contributing)
+- <a href="#tools-for-pms"><img src="./text/tools-for-pms.svg" align="absmiddle" alt="Tools for PMs" /></a>
+- <a href="#frameworks--mental-models"><img src="./text/frameworks-mental-models.svg" align="absmiddle" alt="Frameworks & Mental Models" /></a>
+- <a href="#writing--newsletters"><img src="./text/writing-newsletters.svg" align="absmiddle" alt="Writing & Newsletters" /></a>
+- <a href="#books"><img src="./text/books.svg" align="absmiddle" alt="Books" /></a>
+- <a href="#podcasts"><img src="./text/podcasts.svg" align="absmiddle" alt="Podcasts" /></a>
+- <a href="#research--reports"><img src="./text/research-reports.svg" align="absmiddle" alt="Research & Reports" /></a>
+- <a href="#communities"><img src="./text/communities.svg" align="absmiddle" alt="Communities" /></a>
+- <a href="#people-to-follow"><img src="./text/people-to-follow.svg" align="absmiddle" alt="People to Follow" /></a>
+- <a href="#contributing"><img src="./text/contributing.svg" align="absmiddle" alt="Contributing" /></a>
 
 ## Tools for PMs
 
