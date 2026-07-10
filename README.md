@@ -23,6 +23,7 @@ AI-native or AI-augmented tools PMs actually use day to day.
 ### Research & synthesis
 
 - <a href="https://claude.ai"><img src="./text/claude.svg" align="absmiddle" alt="Claude" /></a> — Long-context LLM for spec writing, research, and doc analysis.
+- [Maoxuan Product Agent](https://github.com/atdy/maoxuan-product-agent) — Open-source Chinese product-decision Agent Skill for prioritization, growth, data, and delivery diagnosis.
 - <a href="https://notebooklm.google"><img src="./text/notebooklm.svg" align="absmiddle" alt="NotebookLM" /></a> — Multi-document Q&A across an uploaded corpus.
 - <a href="https://perplexity.ai"><img src="./text/perplexity.svg" align="absmiddle" alt="Perplexity" /></a> — Cited-source AI search for market and competitive research.
 
