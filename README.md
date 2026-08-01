@@ -20,6 +20,10 @@ The job of "PM" is being rewritten in real time. This list is for PMs who want t
 
 AI-native or AI-augmented tools PMs actually use day to day.
 
+
+### Decision making
+
+- <a href="https://www.daudit.net">DAUDIT</a> — Decision-context engine that audits your thinking across five dimensions (World Model Gaps, Adversarial Risk, Theory of Mind, Decision State, Confidence vs Evidence) before you commit to irreversible product decisions.
 ### Research & synthesis
 
 - <a href="https://claude.ai"><img src="./text/claude.svg" align="absmiddle" alt="Claude" /></a> — Long-context LLM for spec writing, research, and doc analysis.
