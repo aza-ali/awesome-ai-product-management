@@ -58,6 +58,7 @@ Conceptual frames for thinking about AI products.
 
 Newsletters and blogs that move the needle on AI product thinking.
 
+- [AI Weekly](https://aiweekly.co/) — Ranks and explains AI models, companies, funding, policy, and research for product leaders.
 - <a href="https://importai.substack.com/"><img src="./text/import-ai.svg" align="absmiddle" alt="Import AI" /></a> by Jack Clark — Weekly AI research and policy from Anthropic's co-founder.
 - <a href="https://lastweekin.ai/"><img src="./text/last-week-in-ai.svg" align="absmiddle" alt="Last Week in AI" /></a> — Curated AI news digest.
 - <a href="https://www.latent.space/"><img src="./text/latent-space.svg" align="absmiddle" alt="Latent Space" /></a> — The AI engineer's newsletter and podcast.
