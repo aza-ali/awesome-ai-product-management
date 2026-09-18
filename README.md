@@ -36,6 +36,7 @@ AI-native or AI-augmented tools PMs actually use day to day.
 
 - <a href="https://coda.io"><img src="./text/coda.svg" align="absmiddle" alt="Coda" /></a> — Formula-driven AI docs for living strategy.
 - <a href="https://linear.app"><img src="./text/linear.svg" align="absmiddle" alt="Linear" /></a> — Project tracker with first-class AI agent triage.
+[Lockstep](https://github.com/lockstep-team-agent/lockstep) — Shared decision memory that records product and engineering choices, rejected options, and rationale so people and AI agents working on the same product stay aligned.
 - <a href="https://www.notion.com/product/ai"><img src="./text/notion-ai.svg" align="absmiddle" alt="Notion AI" /></a> — AI-augmented docs and databases for PRDs.
 - <a href="https://www.productboard.com"><img src="./text/productboard.svg" align="absmiddle" alt="Productboard" /></a> — Product platform with AI feedback synthesis.
 
