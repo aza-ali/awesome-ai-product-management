@@ -28,6 +28,7 @@ AI-native or AI-augmented tools PMs actually use day to day.
 
 ### Prototyping & code
 
+- [ai-pm-skills](https://github.com/vishalhabib99/ai-pm-skills) — Claude Code skills for checking a feature idea against real examples before building it and setting eval launch gates before results exist.
 - <a href="https://code.claude.com/docs/en/overview"><img src="./text/claude-code.svg" align="absmiddle" alt="Claude Code" /></a> — Terminal agent for code-level PM artifacts.
 - <a href="https://cursor.com"><img src="./text/cursor.svg" align="absmiddle" alt="Cursor" /></a> — AI-first IDE for prototyping and reading codebases.
 - <a href="https://v0.dev"><img src="./text/v0.svg" align="absmiddle" alt="v0" /></a> — Generates UI and full apps from text prompts.
