@@ -43,6 +43,7 @@ AI-native or AI-augmented tools PMs actually use day to day.
 
 - <a href="https://dovetail.com"><img src="./text/dovetail.svg" align="absmiddle" alt="Dovetail" /></a> — AI-tagged user research repository with theme extraction.
 - <a href="https://www.granola.ai"><img src="./text/granola.svg" align="absmiddle" alt="Granola" /></a> — AI meeting capture and summarization.
+- [OneMira C1](https://onemira.com/products/c1) — Subscription-free standalone AI voice recorder with local AI meeting summaries, speaker identification, Markdown export, and an open-source [MCP server](https://github.com/onemira-space/onemira-mcp)
 - <a href="https://kraftful.com"><img src="./text/kraftful.svg" align="absmiddle" alt="Kraftful" /></a> — Synthesizes app reviews, tickets, and surveys into themes.
 
 ## Frameworks & Mental Models
