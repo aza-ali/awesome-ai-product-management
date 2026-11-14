@@ -58,6 +58,7 @@ Conceptual frames for thinking about AI products.
 
 Newsletters and blogs that move the needle on AI product thinking.
 
+- [AIHOT Weekly](https://aihot.news/weekly) — Chinese-language weekly digest of model releases, AI product launches, research, and industry developments.
 - <a href="https://importai.substack.com/"><img src="./text/import-ai.svg" align="absmiddle" alt="Import AI" /></a> by Jack Clark — Weekly AI research and policy from Anthropic's co-founder.
 - <a href="https://lastweekin.ai/"><img src="./text/last-week-in-ai.svg" align="absmiddle" alt="Last Week in AI" /></a> — Curated AI news digest.
 - <a href="https://www.latent.space/"><img src="./text/latent-space.svg" align="absmiddle" alt="Latent Space" /></a> — The AI engineer's newsletter and podcast.
